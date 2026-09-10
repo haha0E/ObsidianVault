@@ -3,7 +3,7 @@ type: moc
 area: AI工程
 status: growing
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-11
 by: claude
 ---
 # MOC-AI工程（内容地图）
@@ -21,6 +21,10 @@ by: claude
 ## 感知与文档
 
 - [[OCR选型]] — 识别（PaddleOCR）与文档解析（MinerU）是两件事
+
+## 存储与检索
+
+- [[向量数据库选型]] — 按规模分层：pgvector / Qdrant / Milvus
 
 ## 未开卡（学到再建）
 
