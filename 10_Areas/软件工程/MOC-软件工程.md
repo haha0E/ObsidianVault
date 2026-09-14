@@ -3,7 +3,7 @@ type: moc
 area: 软件工程
 status: growing
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-14
 by: claude
 ---
 # MOC-软件工程（内容地图）
@@ -19,6 +19,10 @@ by: claude
 
 - [[录制回放测试]] — 录一次、回放千次，留痕可溯源
 - [[静态网站托管]] — 免费把静态站点挂上公网
+
+## 并发与线程
+
+- [[虚拟线程]] — 海量阻塞任务不排队，JDK 21+ 的 thread-per-request
 
 ## 未开卡（学到再建）
 
