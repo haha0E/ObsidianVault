@@ -3,7 +3,7 @@ type: moc
 area: React
 status: growing
 created: 2026-09-01
-updated: 2026-09-01
+updated: 2026-09-19
 by: claude
 ---
 # MOC-React（内容地图）
@@ -21,10 +21,13 @@ by: claude
 - [[useState]] — 最小状态单元
 - [[useEffect]] — 与外部世界同步
 
-## 底层与进阶（未开卡，学到再建）
+## 底层与进阶
 
-- 渲染机制与虚拟 DOM
-- Context 与状态共享
+- [[渲染机制与虚拟DOM]] — render 与 commit 两阶段分离，性能问题的根源
+- [[Context与状态共享]] — 解决 props 钻透，但不是状态管理库
+
+## 未开卡（学到再建）
+
 - 性能优化（memo / useMemo / useCallback）
 - 路由与数据获取
 

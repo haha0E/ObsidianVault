@@ -3,7 +3,7 @@ type: note
 area: React
 status: seed
 created: 2026-09-01
-updated: 2026-09-01
+updated: 2026-09-19
 by: claude
 ---
 # 渲染机制与虚拟DOM
